@@ -3,7 +3,7 @@ name: Extract CV Scores
 on:
   push:
     branches:
-      - main  # プッシュ時にワークフローを実行するブランチを指定
+      - master  # プッシュ時にワークフローを実行するブランチを指定
 
 jobs:
   extract_cv:
@@ -34,4 +34,4 @@ jobs:
         git commit -m "Update CV scores in readme.md"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actionsのデフォルトトークンでpush
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

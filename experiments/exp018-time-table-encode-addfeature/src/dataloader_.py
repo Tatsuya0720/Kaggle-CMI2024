@@ -4,7 +4,6 @@ import warnings
 
 import numpy as np
 import pandas as pd
-import polars as pl
 import torch
 from sklearn.preprocessing import StandardScaler
 from torch.utils.data import DataLoader, Dataset
@@ -48,7 +47,7 @@ class CMIDataset(Dataset):
         # テーブルデータの抽出
         id_ = self.valid_ids[idx]
 
-        save_dir = "/home/tatsuya/code/projects/kaggle/ChildMindInstitute2024/precreated_dataset/exp017/"
+        save_dir = "/home/tatsuya/code/projects/kaggle/ChildMindInstitute2024/precreated_dataset/exp018/"
         save_path = os.path.join(save_dir, id_)
         if not os.path.exists(save_path):
             table = self.table_df.loc[self.table_df["id"]==self.valid_ids[idx], :]
@@ -118,6 +117,5 @@ def read_parquet(base_dir, id_):
     path = os.path.join(base_dir, f"id={id_}", "part-0.parquet")
     if not os.path.exists(path):
         return None
-    #return pd.read_parquet(path)
-    #return dd.read_parquet(path).head(17280 * 31).compute()
-    return pl.scan_parquet(path).fetch(17280 * 31).to_pandas()
+    return pd.read_parquet(path)
+

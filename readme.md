@@ -16,5 +16,4 @@
 | exp013-time-table-encode-skf-MHA | 0.417 | 0.447 |
 | exp014-time-table-encode-skf-MHA | 0.385 | 0.405 |
 | exp015-time-table-encode-skf-MHA | 0.393 | 0.440 |
-| exp016-time-table-encode-skf-MHA | 0.408 | 0.434 |
 | exp017-time-table-encode-skf-MHA | None | None |

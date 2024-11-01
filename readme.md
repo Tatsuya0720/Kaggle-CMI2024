@@ -19,3 +19,4 @@
 | exp017-time-table-encode-skf-MHA | None | None |
 | exp018-time-table-encode-addfeature | 0.403 | 0.455 |
 | exp020-time-table-encode-addfeature | 0.428 | 0.431 |
+| exp021-time-table-encode-leak | 0.455 | 0.463 |

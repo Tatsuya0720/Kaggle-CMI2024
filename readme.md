@@ -23,3 +23,4 @@
 | exp021-time-table-encode-leak | 0.455 | 0.463 |
 | exp023-time-table-encode-knnimpute | 0.442 | 0.473 |
 | exp024-time-table-encode-knnimpute | 0.444 | 0.449 |
+| exp025-time-table-encode-knnimpute-multitask | 0.406 | 0.450 |

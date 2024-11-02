@@ -16,7 +16,9 @@
 | exp013-time-table-encode-skf-MHA | 0.417 | 0.447 |
 | exp014-time-table-encode-skf-MHA | 0.385 | 0.405 |
 | exp015-time-table-encode-skf-MHA | 0.393 | 0.440 |
-| exp017-time-table-encode-skf-MHA | None | None |
+| exp016-time-table-encode-skf-MHA | 0.408 | 0.434 |
 | exp018-time-table-encode-addfeature | 0.403 | 0.455 |
+| exp019-time-table-encode-addfeature | 0.397 | 0.422 |
 | exp020-time-table-encode-addfeature | 0.428 | 0.431 |
 | exp021-time-table-encode-leak | 0.455 | 0.463 |
+| exp023-time-table-encode-knnimpute | 0.442 | 0.473 |

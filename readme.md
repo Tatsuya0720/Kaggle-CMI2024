@@ -26,3 +26,5 @@
 | exp025-time-table-encode-knnimpute-multitask | 0.406 | 0.450 |
 | exp026-time-table-encode-knnimpute-multitask | 0.414 | 0.418 |
 | exp027-time-table-encode-simpleimpute | 0.423 | 0.441 |
+| exp028-time-table-encode-dropna | 0.385 | 0.436 |
+| exp029-time-table-encode-dropna-noutput | 0.385 | 0.444 |

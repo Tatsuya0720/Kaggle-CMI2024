@@ -17,6 +17,7 @@
 | exp014-time-table-encode-skf-MHA | 0.385 | 0.405 |
 | exp015-time-table-encode-skf-MHA | 0.393 | 0.440 |
 | exp016-time-table-encode-skf-MHA | 0.408 | 0.434 |
+| exp018-table-encode-only | 0.391 | 0.399 |
 | exp018-time-table-encode-addfeature | 0.403 | 0.455 |
 | exp019-time-table-encode-addfeature | 0.397 | 0.422 |
 | exp020-time-table-encode-addfeature | 0.428 | 0.431 |
@@ -28,3 +29,5 @@
 | exp027-time-table-encode-simpleimpute | 0.423 | 0.441 |
 | exp028-time-table-encode-dropna | 0.385 | 0.436 |
 | exp029-time-table-encode-dropna-noutput | 0.385 | 0.444 |
+| exp030-time-table-encode-dropna-noutput | 0.373 | 0.442 |
+| exp031-time-table-encode-copy-bunny | 0.455 | 0.489 |

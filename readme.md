@@ -31,3 +31,5 @@
 | exp029-time-table-encode-dropna-noutput | 0.385 | 0.444 |
 | exp030-time-table-encode-dropna-noutput | 0.373 | 0.442 |
 | exp031-time-table-encode-copy-bunny | 0.455 | 0.489 |
+| exp032-time-table-encode-copy-bunny | 0.378 | 0.430 |
+| exp033-time-table-encode-copy-bunny | 0.455 | 0.489 |

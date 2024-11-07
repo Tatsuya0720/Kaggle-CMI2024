@@ -34,3 +34,5 @@
 | exp032-time-table-encode-copy-bunny | 0.378 | 0.430 |
 | exp033-time-table-encode-copy-bunny | 0.455 | 0.489 |
 | exp034-time-table-encode-copy-bunny | 0.392 | 0.436 |
+| exp035-time-table-encode-copy-bunny | 0.385 | 0.396 |
+| exp036-time-table-encode-copy-bunny | 0.385 | 0.396 |

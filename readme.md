@@ -35,4 +35,6 @@
 | exp033-time-table-encode-copy-bunny | 0.455 | 0.489 |
 | exp034-time-table-encode-copy-bunny | 0.392 | 0.436 |
 | exp035-time-table-encode-copy-bunny | 0.385 | 0.396 |
-| exp036-time-table-encode-copy-bunny | 0.385 | 0.396 |
+| exp036-time-table-encode-impute-bunny | 0.381 | 0.387 |
+| exp037-time-table-encode-knnimpute-multitask | 0.400 | 0.446 |
+| exp038-time-table-encode-knnimpute | 0.393 | 0.443 |

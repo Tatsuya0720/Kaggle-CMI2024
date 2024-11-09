@@ -38,3 +38,4 @@
 | exp036-time-table-encode-impute-bunny | 0.381 | 0.387 |
 | exp037-time-table-encode-knnimpute-multitask | 0.400 | 0.446 |
 | exp038-time-table-encode-knnimpute | 0.393 | 0.443 |
+| exp039-time-autoencoder | None | None |

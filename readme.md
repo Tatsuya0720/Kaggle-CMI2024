@@ -1,3 +1,8 @@
+# Data & Model Architecture
+![slide1](/home/tatsuya/code/projects/kaggle/ChildMindInstitute2024/slide/スライド1.PNG)
+![slide2](/home/tatsuya/code/projects/kaggle/ChildMindInstitute2024/slide/スライド2.PNG)
+![slide3](/home/tatsuya/code/projects/kaggle/ChildMindInstitute2024/slide/スライド3.PNG)
+
 # Experiment Results
 
 | Experiment | CV | Tuned CV |

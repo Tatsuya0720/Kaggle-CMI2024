@@ -47,3 +47,8 @@
 | exp039-time-autoencoder-transformer | None | None |
 | exp040-time-autoencoder-lstm | None | None |
 | exp041-time-autoencoder-cnn | None | None |
+| exp042-lstm-cnnencoder-boosting-voting | None | None |
+| lstm-model | 0.409 | 0.441 |
+| exp043-lstm-cnnencoder-boosting-voting | None | None |
+| lstm-model | 0.409 | 0.441 |
+| exp044-lstm-cnnencoder-boosting-voting | None | None |

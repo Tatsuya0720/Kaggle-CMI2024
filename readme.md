@@ -4,7 +4,6 @@
 ![slide3](./slide//スライド3.PNG)
 
 # Experiment Results
-
 | Experiment | CV | Tuned CV |
 |------------|----|----------|
 | exp003-time-table-encode-skf | 0.373 | 0.373 |
@@ -52,3 +51,16 @@
 | exp043-lstm-cnnencoder-boosting-voting | None | None |
 | lstm-model | 0.409 | 0.441 |
 | exp044-lstm-cnnencoder-boosting-voting | None | None |
+| exp045-lstm-cnnencoder-boosting-voting | 0.355 | 0.435 |
+| lstm-model | 0.385 | 0.444 |
+| exp046-time-table-encode-multitask | 0.404 | 0.407 |
+| model01 | None | None |
+| model02 | None | None |
+| model03 | 0.399 | 0.445 |
+| model01 | None | None |
+| model02 | None | None |
+| model03 | 0.399 | 0.445 |
+| model01 | None | None |
+| model02 | None | None |
+| model03 | 0.399 | 0.445 |
+| model05 | None | None |
